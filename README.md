@@ -1,5 +1,7 @@
 # Node client for Usabilla API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/usabilla/api-js-node.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/usabilla/api-js-node.svg?branch=master)](https://travis-ci.org/usabilla/api-js-node?branch=master) [![Coverage Status](https://coveralls.io/repos/github/usabilla/api-js-node/badge.svg?branch=master)](https://coveralls.io/github/usabilla/api-js-node?branch=master)
 
 The Usabilla API Client for Node.js provides access to the Usabilla database from Node.js applications.
